@@ -1,0 +1,15 @@
+{
+    "rpcEndpoint": "wss://westend-rpc.polkadot.io",
+    "chainName": "Polkadot",
+    "keyType": "sr25519",
+    "privateSeed": "matter void humor square knee ozone pioneer matter hub come rely swamp",
+    "validatorStashes": [
+        "5CFPqoTU7fiUp1JJNbfcY2z6yavEBKDPQGg4SGeG3Fm7vCsg",
+        "5DJcEbkNxsnNwHGrseg7cgbfUG8eiKzpuZqgSph5HqHrjgf6",
+        "5FEjMPSs4X2XNes7QRH6eLmaYCskHdnYM8Zv2kKrBrhnzGbR"
+    ],
+    "forceClaim": false,
+    "mailing": {
+        "to": "emanuele.valzano@gmail.com"
+    }
+}
